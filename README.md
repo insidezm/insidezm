@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, i'm Alex</a> 
+<h1 align="center">Hi 👋, i'm <a href="https://vk.com/id65966237">Alex</a></h1>
 
 <h3 align="center">I am a Masters student in Business Informatics.
 I study programming on my own.</h3>
